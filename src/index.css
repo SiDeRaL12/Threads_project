@@ -68,5 +68,13 @@ button:focus-visible {
   }
   button {
     background-color: #f9f9f9;
+    color: #213547;
+    border: 1px solid #213547;
+  }
+  
+  input {
+    border: 1px solid #213547;
+    height: 3rem;
+    padding: 0.5rem;
   }
 }
