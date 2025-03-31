@@ -18,7 +18,7 @@ const tabs = [
     { to: "/search", label: "Search", icon: <Search size={20} />, filled: <SearchIcon size={20} /> },
     { to: "/post", label: "Post", icon: <Plus size={20} />, filled: <Send size={20} /> },
     { to: "/profile", label: "Profile", icon: <User size={20} />, filled: <UserIcon size={20} /> },
-    { to: "/settings", label: "Settings", icon: <Settings size={20} />, filled: <SettingsIcon size={20} /> },
+    { to: "/Settings", label: "Settings", icon: <Settings size={20} />, filled: <SettingsIcon size={20} /> },
 ];
 
 const BottomNav = () => {
